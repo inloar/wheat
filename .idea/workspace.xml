@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe758d96-4d26-410f-a586-ed033c90cd1e" name="默认的" comment="默认的" />
+    <list default="true" id="fe758d96-4d26-410f-a586-ed033c90cd1e" name="默认的" comment="默认的">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,12 +127,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/aielabProject/check-base-vue",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\phpStudy\WWW\adf\js" />
@@ -172,7 +177,9 @@
       <option name="presentableId" value="Default" />
       <updated>1496709375996</updated>
       <workItem from="1676630541573" duration="540000" />
-      <workItem from="1676631103924" duration="13887000" />
+      <workItem from="1676631103924" duration="13935000" />
+      <workItem from="1676799742123" duration="1404000" />
+      <workItem from="1677806559775" duration="207000" />
     </task>
     <servers />
   </component>
